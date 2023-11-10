@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 </div>
 <div align=center>
 	<a href="https://moooooon.tistory.com">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+		<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
 	</a>
 	<a href="https://moonsunah.notion.site/ac0ac04ef85b4679868074c86ff3cf8f?pvs=4">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
