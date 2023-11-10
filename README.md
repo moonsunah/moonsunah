@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-	<h3>📚 Tech Stack</h3>
-	<p>✨ Platforms & Languages</p>
+	<h2>📚 Tech Stack</h2>
+	<p>✨ Languages</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJIDEA&logoColor=white" />
 	<br>
+	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
